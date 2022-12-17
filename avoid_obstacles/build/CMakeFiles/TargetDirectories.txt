@@ -1,0 +1,3 @@
+/home/duong/Desktop/ROS2/key_press_robot/avoid_obstacles/build/CMakeFiles/lidar_node.dir
+/home/duong/Desktop/ROS2/key_press_robot/avoid_obstacles/build/CMakeFiles/edit_cache.dir
+/home/duong/Desktop/ROS2/key_press_robot/avoid_obstacles/build/CMakeFiles/rebuild_cache.dir
